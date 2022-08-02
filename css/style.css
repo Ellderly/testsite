@@ -1336,6 +1336,10 @@ p {
   height: 105%;
 }
 
+.product__item .img-jura-center {
+  width: auto;
+}
+
 .product__item img {
   position: absolute;
   left: 0;
