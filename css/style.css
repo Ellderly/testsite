@@ -1148,6 +1148,13 @@ p {
   gap: 10px;
 }
 
+.footer__info h3 {
+  color: #fff;
+  font-weight: 500;
+  font-size: 1.4375rem;
+  margin-bottom: 0.625rem;
+}
+
 .footer__info-item {
   display: -webkit-box;
   display: -ms-flexbox;
