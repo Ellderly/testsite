@@ -835,7 +835,7 @@ p {
   position: absolute;
   left: 50%;
   top: 50%;
-  width: 430px;
+  width: 460px;
   padding: 20px 20px 30px 20px;
   background-color: #00172C;
 }
@@ -2805,6 +2805,16 @@ button.swiper-pagination-bullet {
 @media (min-width: 25em) {
   .lang__link {
     font-size: inherit;
+  }
+}
+
+@media (max-width: 64em) {
+  .page__full-screen .page__slider-block-text {
+    width: 26.875rem;
+  }
+
+  .page__full-screen .page__slider-block-text h2 {
+    font-size: 18px;
   }
 }
 
